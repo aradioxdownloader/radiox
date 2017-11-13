@@ -30,5 +30,12 @@
 <pubDate>Thu, 16 Jun 2005 21:00:00 GMT</pubDate>
 <enclosure url="http://github.com/aradioxdownloader/radiox/blob/master/radiox_2017-11-12:23:11-Sun.mp3" length="1870" type="audio/mpeg" />
 </item>
+<item>
+<title>radiox_2017-11-13:00:11-Mon (1).mp3</title>
+<description>radiox_2017-11-13:00:11-Mon (1).mp3</description>
+<itunes:author> Your Name </itunes:author>
+<pubDate>Thu, 16 Jun 2005 21:00:00 GMT</pubDate>
+<enclosure url="http://github.com/aradioxdownloader/radiox/blob/master/radiox_2017-11-13:00:11-Mon (1).mp3" length="1870" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
